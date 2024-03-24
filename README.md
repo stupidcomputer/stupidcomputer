@@ -1,4 +1,3 @@
-# stupidcomputer
+Hello!
 
-public facing content
-(beepboop.systems' source, github README.md, etc)
+I self-host my own git repos. This account is only for external contributions. My personal code is [here](https://git.beepboop.systems). See you there!
