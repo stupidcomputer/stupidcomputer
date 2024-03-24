@@ -1,3 +1,1 @@
-Hello!
-
-I self-host my own git repos. This account is only for external contributions. My personal code is [here](https://git.beepboop.systems). See you there!
+Hey there, I'm [Ryan](https://beepboop.systems) and I'm a student in high school. This Github page contains some of my more polished projects. For all my projects, see my personal [gitea instance](https://git.beepboop.systems/rndusr).
