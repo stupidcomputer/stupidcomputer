@@ -6,13 +6,13 @@
     --bg2:  #504945;
     --bg3:  #665c54;
     --bg4:  #7c6f64;
-  
+
     --fg:  #fbf1c7;
     --fg1: #ebdbb2;
     --fg2: #d5c4a1;
     --fg3: #bdae93;
     --fg4: #a89984;
-  
+
     --red:    #fb4934;
     --green:  #b8bb26;
     --yellow: #fabd2f;
@@ -21,7 +21,7 @@
     --aqua:   #8ec07c;
     --gray:   #928374;
     --orange: #fe8019;
-  
+
     --red-dim:    #cc2412;
     --green-dim:  #98971a;
     --yellow-dim: #d79921;
@@ -35,18 +35,18 @@
 body {
     color: var(--fg); 
     background-color: var(--bg_h);
-    font-family: sans-serif; 
+    font-family: sans-serif;
 
     border-radius: 5px;
     border-color: var(--fg4);
-    border-style: dashed; 
- 
+    border-style: dashed;
+
     width: 95vw;
-    padding-left: 0.5em; 
-    padding-right: 0.5em; 
-    margin: 0 auto; 
-    margin-top: 2.5vw; 
-    margin-bottom: 2.5vw; 
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    margin: 0 auto;
+    margin-top: 2.5vw;
+    margin-bottom: 2.5vw;
 }
 
 a {
@@ -65,9 +65,13 @@ table {
 
 tr {
     padding: 0.1em;
-    padding-right: 0.3em; 
+    padding-right: 0.3em;
 }
 
 td {
     padding: 0.1em;
+}
+
+.button {
+    width: 25;
 }
