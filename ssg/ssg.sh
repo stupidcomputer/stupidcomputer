@@ -1,5 +1,20 @@
 #!/bin/sh
 
+if [ "$1" = "-h" ]; then
+	cat <<EOF
+ssg.sh
+
+-h: print help
+-s: spin up an http server with python3 -m http.server
+EOF
+	exit
+fi
+
+if [ "$1" = "-s" ]; then
+	python3 -m http.server -d output
+	exit
+fi
+
 files=$(find -type f | grep -v "output/")
 directories=$(find -type d)
 
