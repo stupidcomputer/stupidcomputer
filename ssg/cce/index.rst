@@ -19,7 +19,7 @@ An Act to Remediate Location-based Healthcare Access Inequities
 
 Prime Sponsors: Krishna Deepak, Ryan Marina\ |dagger|
 
-Co-prime Sponsors: Emeline Lasseter, Jane Altman, Ruby\ |dagger|
+Co-prime Sponsors: Emeline Lasseter, Jane Altman, Ruby Hatley\ |dagger|
 
 ..
   What's Ruby's last name?
@@ -41,8 +41,8 @@ View the bill text:
 
 View ancillary bill materials:
 
-- `Gubernatorial Statement of Enactment <statement-of-enactment.png>`_
-- `Position of Bill on Final Budget <24-yig-budget.png>`_
+- `Gubernatorial Statement of Enactment <statement-of-enactment.jpg>`_
+- `Position of Bill on Final Budget <24-yig-budget.jpg>`_
 
 *********************************************************************************************
 A Resolution to Regulate the Maintenance and Caretaking of Water Bearing Structures Worldwide
