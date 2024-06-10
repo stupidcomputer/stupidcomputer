@@ -18,6 +18,7 @@ I sometimes write `articles <articles/>`_, but I also have many open-source proj
 .. container:: hero-image-l
 
   .. figure:: ./demo.png
+    :alt: A picture of contents of the display of x230t, a desktop which uses the dot_testing setup.
 
 ``dot_testing``
 ***************
@@ -35,8 +36,8 @@ The majority of content within is licensed under the `GPL <https://www.gnu.org/l
 
 .. container:: hero-image-r
 
-   .. figure:: ./yig.png
-
+  .. figure:: ./yig.png
+    :alt: A picture of the cover of the 71st annual Youth in Government Volunteer conference handbook.
 
 ``yig``
 *******
@@ -59,7 +60,8 @@ Licensed under the GPL.
 
 .. container:: hero-image-l
 
-   .. figure:: ./desmos.png
+  .. figure:: ./desmos.png
+    :alt: A picture of a DesmosDSL graph definition opened in the Neovim text editor.
 
 ``desmos-computer``
 *******************
@@ -79,7 +81,9 @@ Licensed under the GPL.
 
 .. container:: hero-image-r
 
-   .. figure:: ./irc.png
+  .. figure:: ./irc.png
+    :alt: A picture of an IRC session on libera.chat via the Weechat client.
+
 
 Various IRC bots
 ****************
