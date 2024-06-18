@@ -25,7 +25,7 @@ Gambaro's *Wind Quartet in F major*, Section 1
 *This project is not finished. Some (or all) links may not resolve.*
 
 This is a transcription and slight rearrangement of this work to better balance the Flute and Clarinet parts. This work can be found on `IMSLP <https://imslp.org/wiki/3_Wind_Quartets,_Op.4_(Gambaro,_Vincenzo)>`_.
-For information on copyright and the legal status of these works and this transcription and rearrangement, see `here <gambaro/legal.html>`_.
+For information on copyright and the legal status of these works and this transcription and rearrangement, see `here <legal/gambaro.html>`_.
 
 Transcription only:
 

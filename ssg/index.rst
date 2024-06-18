@@ -12,3 +12,4 @@ Begrudgingly, I'm available on Discord as ``hmmstmachine``.
 If you need another form of contact, email me and I'll give it to you.
 
 To see previous revisions of the site, click `here </changelog.html>`_.
+To see the privacy policy and other relevant legal information, click `here </legal/>`_.
