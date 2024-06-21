@@ -25,6 +25,16 @@ body {
     font-family: sans-serif;
 }
 
+div.hero-image > figure > img {
+    width: 90%;
+    overflow: hidden;
+}
+
+div.hero-image > figure {
+    margin: 0;
+    padding: 0;
+}
+
 div.hero-image-l > figure > img {
     width: 25%;
     float: left;
