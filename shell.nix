@@ -4,5 +4,6 @@
     nativeBuildInputs = with pkgs; [
         pandoc
         python3
+        texliveFull
     ];
 }

@@ -9,6 +9,7 @@ On this server, I run my own `gitea <https://git.beepboop.systems>`_, a private 
 
 I'm available on github at `stupidcomputer <https://github.com/stupidcomputer>`_ and email via the address `ryan@beepboop.systems <mailto:ryan@beepboop.systems>`_.
 Begrudgingly, I'm available on Discord as ``hmmstmachine``.
+I also have a `resume <./resume.pdf>`_ if you're interested.
 If you need another form of contact, email me and I'll give it to you.
 
 To see previous revisions of the site, click `here </changelog.html>`_.
