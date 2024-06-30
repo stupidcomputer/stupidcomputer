@@ -32,6 +32,13 @@ IFS='
 
 mkdir -p ./output
 
+# compile the resume first
+cp -r ../resume ../resume-work
+cd ../resume-work
+pdflatex resume.tex
+cd -
+cp ../resume-work/resume.pdf output/
+
 for i in $directories; do
 	if [ ! "$i" = "./output" ]; then
 		mkdir -p "./output/$i"
