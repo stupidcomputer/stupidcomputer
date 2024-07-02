@@ -52,6 +52,7 @@ What legislative activity has the Democratic People's Republic of Korea sponsore
 It is these kinds of questions ``yig``, a suite of software for building legislation databases, is designed to answer.
 ``yig`` is a parser for YIG/CCE manuals (provided in PDF) and a database/web frontend for the data parsed.
 
+``yig`` is self-hosted at `franklincee.beepboop.systems <https://franklincce.beepboop.systems/>`_.
 This project is under development at the `git.beepboop.systems gitea <https://git.beepboop.systems/stupidcomputer/yig>`_ and `Github <https://github.com/stupidcomputer/yig>`_.
 For more information on CCE events, see this website's section on `mock legislation </cce>`_.
 Licensed under the GPL.
