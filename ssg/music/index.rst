@@ -34,7 +34,7 @@ Transcription only:
   - `All parts <gambaro/transc/all.pdf>`_
   - `Flute <gambaro/transc/flute.pdf>`_
   - `Clarinet in Bb <gambaro/transc/clarbb.pdf>`_
-  - `Clarinet in C <gambaro/transc/clarbb.pdf>`_\*
+  - `Clarinet in C <gambaro/transc/clarc.pdf>`_\*
   - `Horn in F <gambaro/transc/horn.pdf>`_
   - `Bassoon <gambaro/transc/bassoon.pdf>`_
 
@@ -45,7 +45,7 @@ Rearrangement:
   - `All parts <gambaro/rearranged/all.pdf>`_
   - `Flute <gambaro/rearranged/flute.pdf>`_
   - `Clarinet in Bb <gambaro/rearranged/clarbb.pdf>`_
-  - `Clarinet in C <gambaro/rearranged/clarbb.pdf>`_\*
+  - `Clarinet in C <gambaro/rearranged/clarc.pdf>`_\*
   - `Horn in F <gambaro/rearranged/horn.pdf>`_
   - `Bassoon <gambaro/rearranged/bassoon.pdf>`_
 
