@@ -2,6 +2,12 @@
 Summary of solo and ensemble placement, adjudications, and appearances
 ======================================================================
 
+**2024-2025**
+
+- *Vanderbilt University Blair School of Music Philharmonia Orchestra*: 3rd Chair Horn
+- *The Franklin High School Marching Band*: 1st Mellophone (class)
+- *The Franklin High School Symphonic Band*: 3rd Chair Horn
+
 **2023-2024**
 
 - *Horn Recital*: Remembrances for Solo Horn by Michael Conway Baker
