@@ -1,0 +1,3 @@
+ssh netbox 'rm -rf ~/output'
+scp -P 443 -r ./output ryan@beepboop.systems:~
+ssh netbox 'sudo -S sh -c "rm -rf /var/www/beepboop.systems; mkdir /var/www/beepboop.systems; cp -r ./output/* /var/www/beepboop.systems/"'
