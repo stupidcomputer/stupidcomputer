@@ -21,32 +21,14 @@ Gambaro's *Wind Quartet in F major*, Section 1
   .. figure:: ./gambaro.jpg
     :alt: Cover of the scanned copy of the work.
 
-
-*This project is not finished. Some (or all) links may not resolve.*
-
-This is a transcription and slight rearrangement of this work to better balance the Flute and Clarinet parts. This work can be found on `IMSLP <https://imslp.org/wiki/3_Wind_Quartets,_Op.4_(Gambaro,_Vincenzo)>`_.
-For information on copyright and the legal status of these works and this transcription and rearrangement, see `here <legal/gambaro.html>`_.
-
-Transcription only:
+These scores were for a project that never really panned out.
+If you need the scores for the first part of the first movement of the first section of the *Quartet*, they are below.
 
   - `MusicXML for all parts <gambaro/transc/all.mxl>`_
   - `MuseScore4 document for all parts <gambaro/transc/all.mscz>`_
   - `All parts <gambaro/transc/all.pdf>`_
   - `Flute <gambaro/transc/flute.pdf>`_
   - `Clarinet in Bb <gambaro/transc/clarbb.pdf>`_
-  - `Clarinet in C <gambaro/transc/clarc.pdf>`_\*
+  - `Clarinet in C <gambaro/transc/clarc.pdf>`_
   - `Horn in F <gambaro/transc/horn.pdf>`_
   - `Bassoon <gambaro/transc/bassoon.pdf>`_
-
-Rearrangement:
-
-  - `MusicXML for all parts <gambaro/rearranged/all.mxl>`_
-  - `MuseScore4 document for all parts <gambaro/rearranged/all.mscz>`_
-  - `All parts <gambaro/rearranged/all.pdf>`_
-  - `Flute <gambaro/rearranged/flute.pdf>`_
-  - `Clarinet in Bb <gambaro/rearranged/clarbb.pdf>`_
-  - `Clarinet in C <gambaro/rearranged/clarc.pdf>`_\*
-  - `Horn in F <gambaro/rearranged/horn.pdf>`_
-  - `Bassoon <gambaro/rearranged/bassoon.pdf>`_
-
-\* *Clarinet in Bb and Clarinet in C can be substituted. For convenience, Clarinet in Bb only is on the "All parts" score.*
