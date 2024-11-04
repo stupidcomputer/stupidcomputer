@@ -73,3 +73,15 @@ div.image-container > figure {
 div.image-container > figure > img {
     width: 100%;
 }
+
+div.myself > figure > img {
+    width: 10%;
+    float: right;
+    overflow: hidden;
+    margin-right: 10px;
+}
+
+div.myself > figure {
+    margin: 0;
+    padding: 0;
+}

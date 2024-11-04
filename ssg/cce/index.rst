@@ -9,7 +9,9 @@ The Tennessee YMCA `Center for Civic Engagement <https://wp.tennesseecce.org/>`_
 I've been to both conferences a lot.
 What follows is (in reverse-chronological order) a timeline of things I've done at these conferences.
 
-A \* indicates a Resolution or Bill was awarded Outstanding Resolution or Outstanding Bill.
+I've also built `a system for looking at past bills and resolutions <https://franklincce.beepboop.systems/explorer>`_.
+
+A \* indicates a Resolution or Bill that was awarded Outstanding Resolution or Outstanding Bill.
 
 A |dagger| indicates an individual who has won Outstanding Delegate (Model UN) or Outstanding Statesperson (Youth in Government).
 
