@@ -24,6 +24,5 @@ Other things of interest at beepboop.systems
 
 - `Gitea code forge <https://git.beepboop.systems>`_
 - `Vaultwarden instance <https://bitwarden.beepboop.systems>`_
-- `Grafana instance <https://grafana.beepboop.systems>`_
 - `Franklin High School YMCA CCE delegation website <https://franklincce.beepboop.systems>`_
 - `The Franklin Band misc. archives <https://tfb.beepboop.systems>`_
