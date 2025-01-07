@@ -1,67 +1,54 @@
-=================
-Legal information
-=================
+# Legal information
 
-`Click here to go back to the beepboop.systems' main page. </>`_
+[Return to the web root](/)
 
-Other legal documents at beepboop.systems:
+## Other legal documents
 
-* `Gambaro transcription and rearrangement copyright statement, license, etc. <./gambaro.html>`_
+- [Gambaro transcription](./gambaro.html)
 
-Things on this document:
+## Privacy policy
 
-* `Privacy policy`_
-  * `CCPA compliance`_
-  * `GDPR compliance`_
-* `Terms of use`_
-* `License of content`_
-
-.. _Privacy policy:
-
-Privacy policy
-==============
-
-``beepboop.systems`` (the root domain of the site) does not collect any personal information.
+`beepboop.systems` (the root domain of the site) does not collect any personal information.
 The only information collected is in the form of server logs, which:
 
-  a) are purged periodically, from time to time, except for analysis in the case of server outage, downtime, or security incident; and
-  b) contain only IP address, and path requested.
+ a) are purged periodically, from time to time, except for analysis in the case of server outage, downtime, or security incident; and
+ b) contain only IP address, and path requested.
 
-If you'd like your entries in server logs purged, please send mail to ``webmaster@beepboop.systems`` with your IP address.
+If you'd like your entries in server logs purged, please send mail to [webmaster@beepboop.systems](mailto:webmaster@beepboop.systems) with your IP address.
 You should get a response in a maximum of thirty (30) business days.
 
 ----
 
-``git.beepboop.systems`` (the self-hosted Gitea code forge) *does* collect personal information.
+`git.beepboop.systems` (the self-hosted Gitea code forge) *does* collect personal information.
 Information collected includes:
 
-  a) name or alias used to register;
-  b) email address used to register; and
-  c) user contributed content in the form of git commits, tags, annotations, issues, pull requests, etc.
+a) name or alias used to register;
+b) email address used to register; and
+c) user contributed content in the form of git commits, tags, annotations, issues, pull requests, etc.
 
-If you'd like your git information purged, please send mail to ``webmaster@beepboop.systems`` with your account name and proof of account ownership.
+If you'd like your git information purged, please send mail to [webmaster@beepboop.systems](mailto:webmaster@beepboop.systems) with your account name and proof of account ownership.
 You should get a response in a maximum of thirty (30) business days.
 
 If you'd like, you can also delete your Gitea account via the built-in web interface, by navigating to the settings page, clicking on 'Account', and scrolling all the way to the bottom to see the account deletion area.
 
-``git.beepboop.systems`` is not subject to CCPA or GDPR regulation, because it fails the same tests that ``beepboop.systems`` fails.
+`git.beepboop.systems` is not subject to CCPA or GDPR regulation, because it fails the same tests that `beepboop.systems` fails.
 For more information, read down to *CCPA compliance* and *GDPR compliance*, below.
 
 ----
 
-``bit.beepboop.systems``, aka ``bitwarden.beepboop.systems`` (the self-hosted Bitwarden instance) *does* collect personal information:
+`bit.beepboop.systems`, aka `bitwarden.beepboop.systems` (the self-hosted Bitwarden instance) *does* collect personal information:
 Information collected includes:
 
-  a) name or alias used to register,
-  b) email address used to register, and
-  c) *encrypted* and inaccessible forms of user submitted content (like passwords)
+a) name or alias used to register,
+b) email address used to register, and
+c) *encrypted* and inaccessible forms of user submitted content (like passwords)
 
-If you'd like your Bitwarden information purged, please send mail to ``webmaster@beepboop.systems`` with your account name and proof of account ownership.
+If you'd like your Bitwarden information purged, please send mail to [webmaster@beepboop.systems](mailto:webmaster@beepboop.systems) with your account name and proof of account ownership.
 You should get a response in a maximum of thirty (30) business days.
 
 Additionally, you can delete your Bitwarden account in the web interface.
 
-``bit.beepboop.systems`` is not subject to CCPA or GDPR regulation, because it fails the same tests that ``beepboop.systems`` fails.
+`bit.beepboop.systems` is not subject to CCPA or GDPR regulation, because it fails the same tests that ``beepboop.systems` fails.
 For more information, read down to *CCPA compliance* and *GDPR compliance*, below.
 
 ----
@@ -70,11 +57,9 @@ All other subdomains at `beepboop.systems` are personal, non-publicly-available 
 
 ----
 
-.. _CCPA compliance:
+## CCPA compliance
 
-*CCPA compliance*
-
-Pursuant to the `California Civil Code, div. 3, part. 4, title 1.81.5 ("The Californica Consumer Privacy Act of 2018"), 1798.40 <https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.140>`_, beepboop.systems fails the 1798.140(d) test -- that is, beepboop.systems is *not* a business:
+Pursuant to the [California Civil Code, div. 3, part. 4, title 1.81.5 ("The Californica Consumer Privacy Act of 2018"), 1798.40](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.140), beepboop.systems fails the 1798.140(d) test -- that is, beepboop.systems is *not* a business:
 
   d. “Business” means:
 
@@ -102,11 +87,9 @@ Thus, because beepboop.systems is not a business, the CCPA does not apply to bee
 
 You're more than welcome to request erasure via the privacy policy above, though.
 
-.. _GDPR compliance:
+## GDPR compliance
 
-*GDPR compliance*
-
-Persuant to `Regulation 2016/679 of the European Parliment <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R0679-20160504>`_, also known as the General Data Protection Regulation, or GDPR, beepboop.systems is *not* subject to its provisions because it fails the Chapter 1, Article 2.2c test:
+Persuant to [Regulation 2016/679 of the European Parliment](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R0679-20160504), also known as the General Data Protection Regulation, or GDPR, beepboop.systems is *not* subject to its provisions because it fails the Chapter 1, Article 2.2c test:
 
   2. This Regulation does not apply to the processing of personal data:
 
@@ -118,29 +101,23 @@ beepboop.systems is hosted as a hobby, which qualifies under the "purely persona
 
 You're more than welcome to request erasure via the privacy policy above, though.
 
-.. _Terms of use:
-
-Terms of use
-============
+## Terms of use
 
 1. These terms of use are subject to change without notice.
-2. By using ``beepboop.systems`` or any other service therein, you constitute full acceptance to these terms.
-   a. If you do not agree to these terms, please cease use of all ``beepboop.systems`` services immediately.
+2. By using `beepboop.systems` or any other service therein, you constitute full acceptance to these terms.
+   a. If you do not agree to these terms, please cease use of all `beepboop.systems` services immediately.
 3. All email addresses are provided for your convenience only.
    Spamming, reselling, or otherwise abusing these addresses is prohibited, and violators will be reported to the proper authorities.
-4. Attempting to exploit any portion of ``beepboop.systems`` is expressly forbidden.
-   ``beepboop.systems`` has no active bug bounty program.
-   Instead of exploitation, send mail to ``webmaster@beepboop.systems`` regarding any vulnerabilities on the site.
+4. Attempting to exploit any portion of `beepboop.systems` is expressly forbidden.
+   `beepboop.systems` has no active bug bounty program.
+   Instead of exploitation, send mail to [webmaster@beepboop.systems](mailto:webmaster@beepboop.systems) regarding any vulnerabilities on the site.
 5. Copying or crawling this website is fine. (Most of the content here is under CC0!)
    Please do be reasonable when setting a sleep time between web page crawls, though.
    Any bot, spider, or script that isn't reasonable (you know what this means) will be blocked at the discretion of site administration.
 6. If you have questions about this website's Privacy Policy, please see above.
 
-.. _License of content:
+## License of content
 
-License of content
-==================
+All materials accessible on `beepboop.systems` are licensed [CC0](./cc0.html), except where otherwise noted.
 
-All materials accessible on ``beepboop.systems`` are licensed `CC0 <./cc0.html>`_, except where otherwise noted.
-
-All materials on ``git.beepboop.systems`` have their own licenses -- be sure to respect those.
+All materials on `git.beepboop.systems` have their own licenses -- be sure to respect those.

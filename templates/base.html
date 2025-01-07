@@ -5,13 +5,21 @@
 <meta charset="utf-8" />
 <meta name="generator" content="pandoc" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-<title>$title$ at beepboop.systems</title>
+{% if title %}
+<title>{{ title }} at beepboop.systems</title>
+{% else %}
+<title>beepboop.systems</title>
+{% endif %}
 <link rel="stylesheet" href="/style.css">
 </head>
 
 <body>
-<h1>$title$</h1>
-$body$
+    <main lang="en">
+        <article>
+            {% block body_content %}
+            {% endblock %}
+        </article>
+    </main>
 </body>
 
 </html>
