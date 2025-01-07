@@ -4,6 +4,9 @@ Summary of solo and ensemble placement, adjudications, and appearances
 
 **2024-2025**
 
+- *TMEA 9-10 All-State Band*: Placed (yet to occur)
+- *MTSBOA 9-10 Gold Band Honor Ensemble*: 3rd Chair Horn (yet to occur)
+- *Williamson County 9-10 Grade Honor Ensemble*: 3rd Chair Horn (yet to occur)
 - *Vanderbilt University Blair School of Music Philharmonia Orchestra*: 3rd Chair Horn
 - *The Franklin High School Marching Band*: 1st Mellophone (class)
 - *The Franklin High School Symphonic Band*: 3rd Chair Horn
