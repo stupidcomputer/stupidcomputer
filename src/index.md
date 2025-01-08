@@ -4,7 +4,8 @@
         (<a href="https://git.beepboop.systems/stupidcomputer">gitea</a>,
         <a href="https://github.com/stupidcomputer">github</a>,
         <a href="mailto:ryan@beepboop.systems">email</a>,
-        <a href="/contact">others</a>)
+        <a href="/blog">blog</a>,
+        <a href="/contact.html">others</a>)
     </small>
     <img id="me" class="right" alt="A picture of myself" src="./picture.jpeg">
 </h1>
@@ -27,19 +28,18 @@ In the same vein, [marching.beepboop.systems](https://marching.beepboop.systems)
 ## Music
 
 As part of my school band program, I play the French horn in concert settings.
-In terms of adjudication, I've done [pretty well](./music/awards.md) --- but I also have the pleasure of participating in my high school's marching band, as well.
+In terms of adjudication, I've done [pretty well](./music/awards.html) --- but I also have the pleasure of participating in my high school's [marching band](https://thefranklinband.org), as well.
 As a group, we've done pretty well too.
 
 ## Mock legislation
 
 I've been participating in mock legislative conferences for a long time.
-Specifically, I have participated in the two sister conferences held by the YMCA Center for Civic Engagement, Model United Nations and Youth in Government.
+Specifically, I have participated in the two sister conferences held by the [YMCA Center for Civic Engagement](http://wp.tennesseecce.org/), Model United Nations and Youth in Government.
 The former is, as expected, a simulation of the internal operations of the namesake supranational organization.
 Youth in Government is a simulation of the affairs of the State of Tennessee.
 Our state's program is particularly unique in that we are able to utilize the actual facilities of the General Assembly during the conference.
 
 Below are the pieces of legislation that I have sponsored, been a member of a sponsoring delegation of, or otherwise played a sizable part of adoption or advancement of said legislation:
-
 
 - [An Act to Absolve the Property Tax on Solar Energy in Tennessee](./cce/yig04)
 - [An Act to Remediate Location-based Healthcare Access Inequities](./cce/yig03)
@@ -50,8 +50,7 @@ Below are the pieces of legislation that I have sponsored, been a member of a sp
 - [A Resolution to Address the Worsening Education Crisis Faced by Nations in the Aftermath of Civil Wars and Coups d'État](./cce/mun02)
 - [A Resolution to Reform the Democratic and Military Framework of Nations Afflicted by Military Coups D'état](./cce/mun01)
 
-
-## Other things of interest at beepboop.systems
+## Other things of interest
 
 - [Gitea code forge](https://git.beepboop.systems)
 - [Vaultwarden instance](https://bitwarden.beepboop.systems)

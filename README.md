@@ -5,5 +5,3 @@ I'm a high school student interested in computers, security, and reproducible sy
 - [Github profile](https://github.com/stupidcomputer) (you are here!)
 - [Gitea](https://git.beepboop.systems/stupidcomputer)
 - [My website](https://beepboop.systems)
-- [A somewhat organized list of software projects](https://beepboop.systems/programming)
-- [My resume](https://beepboop.systems/resume.pdf)
