@@ -1,5 +1,0 @@
-cp -r ../resume ../resume-work
-cd ../resume-work
-pdflatex resume.tex
-cd -
-cp ../resume-work/resume.pdf output/
