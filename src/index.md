@@ -1,14 +1,26 @@
 <h1 class="heading-right">
     Ryan Marina
-    <small>
-        (<a href="https://git.beepboop.systems/stupidcomputer">gitea</a>,
-        <a href="https://github.com/stupidcomputer">github</a>,
-        <a href="mailto:ryan@beepboop.systems">email</a>,
-        <a href="/blog">blog</a>,
-        <a href="/contact.html">others</a>)
-    </small>
     <img id="me" class="right" alt="A picture of myself" src="./picture.jpeg">
 </h1>
+
+<div class="heading-nudge">
+<a href="https://git.beepboop.systems/stupidcomputer">gitea</a>,
+<a href="https://github.com/stupidcomputer">github</a>,
+<a href="mailto:ryan@beepboop.systems">email</a>,
+<a href="/blog">blog</a>,
+<a href="#" id="discordlink">discord</a>
+</div>
+
+<script>
+let discordlink = document.getElementById("discordlink");
+function handler(e) {
+    newelem = document.createElement("span");
+    newelem.innerHTML = "@hmmstmachine (rarely checked)";
+    discordlink.innerHTML = newelem.innerHTML;
+    discordlink.parentNode.replaceChild(newelem, discordlink);
+}
+discordlink.addEventListener("click", handler);
+</script>
 
 Hi there!
 I'm a high schooler with a keen interest in using NixOS, participating in concert and orchestral ensembles, and partaking in mock legislative conferences.

@@ -33,7 +33,7 @@ a {
     color: #8cb4ff;
 }
 
-h1, h2, h3, h4, h5, h6, p, li, code {
+h1, h2, h3, h4, h5, h6, p, li, code, .heading-nudge {
     color: #fff;
 }
 
@@ -71,4 +71,8 @@ img {
     float: right;
     margin-left: 10px;
     margin-bottom: 10px;
+}
+
+.heading-right {
+    margin-bottom: 3px;
 }
