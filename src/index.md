@@ -24,7 +24,7 @@ discordlink.addEventListener("click", handler);
 
 Hi there!
 I'm a high schooler with a keen interest in using NixOS, participating in concert and orchestral ensembles, and partaking in mock legislative conferences.
-I also enjoy learning about cybersecurity --- both offense and defense --- and the extent of the corrosive effect modern tools of warfare have had on the security of critical infrastructure.
+I also enjoy learning about cybersecurity &mdash; both offense and defense &mdash; and the extent of the corrosive effect modern tools of warfare have had on the security of critical infrastructure.
 In particular, I'm interested in aiding the defense of critical infrastructure systems that sustain everyday human life from Internet and digital attacks.
 
 ## Computational endeavors
@@ -40,7 +40,7 @@ In the same vein, [marching.beepboop.systems](https://marching.beepboop.systems)
 ## Music
 
 As part of my school band program, I play the French horn in concert settings.
-In terms of adjudication, I've done [pretty well](./music/awards.html) --- but I also have the pleasure of participating in my high school's [marching band](https://thefranklinband.org), as well.
+In terms of adjudication, I've done [pretty well](./music/awards.html) &mdash; but I also have the pleasure of participating in my high school's [marching band](https://thefranklinband.org), as well.
 As a group, we've done pretty well too.
 
 ## Mock legislation
