@@ -4,7 +4,6 @@
 </h1>
 
 <div class="heading-nudge">
-<a href="https://git.beepboop.systems/stupidcomputer">gitea</a>,
 <a href="https://github.com/stupidcomputer">github</a>,
 <a href="mailto:ryan@beepboop.systems">email</a>,
 <a href="/blog">blog</a>,
@@ -29,12 +28,11 @@ In particular, I'm interested in aiding the defense of critical infrastructure s
 
 ## Computational endeavors
 
-As any good user of a Unix-like operating system, I have an [immaculate collection of dotfiles](https://git.beepboop.systems/stupidcomputer/dot_testing) that I have spent an inordinate amount of time tweaking.
-Some early projects included [a](https://git.beepboop.systems/stupidcomputer/pychaos) [metric](https://git.beepboop.systems/stupidcomputer/modbot) [ton](https://git.beepboop.systems/stupidcomputer/botanybot) [of](https://git.beepboop.systems/stupidcomputer/chaosbot) [IRC](https://git.beepboop.systems/stupidcomputer/coinminer) [bots](https://git.beepboop.systems/stupidcomputer/universalducks), and a [Mastodon bot](https://git.beepboop.systems/stupidcomputer/mastosnake).
-I also wrote a [hobby secure messenger](https://git.beepboop.systems/stupidcomputer/secmsg) that you most definitely should not use.
+As any good user of a Unix-like operating system, I have an [immaculate collection of dotfiles](https://github.com/stupidcomputer/dot_testing) that I have spent an inordinate amount of time tweaking.
+Some early projects included [a](https://github.com/stupidcomputer/pychaos) [metric](https://github.com/stupidcomputer/modbot) [ton](https://github.com/stupidcomputer/botanybot) [of](https://github.com/stupidcomputer/chaosbot) [IRC](https://github.com/stupidcomputer/coinminer) [bots](https://github.com/stupidcomputer/universalducks), and a [Mastodon bot](https://github.com/stupidcomputer/mastosnake).
+I also wrote a [hobby secure messenger](https://github.com/stupidcomputer/secmsg) that you most definitely should not use.
 
-As for more serious projects, I self-host various services, including a [Gitea](https://git.beepboop.systems) and Vaultwarden instance.
-In the same vein, [marching.beepboop.systems](https://marching.beepboop.systems) is a collection of archival materials with regards to the marching arts.
+I also self-host various things, like [marching.beepboop.systems](https://marching.beepboop.systems) &mdash; a collection of archival materials with regards to the marching arts.
 [explorer](https://franklincce.beepboop.systems/explorer) is a tool for looking at previous Youth in Government and Model UN resolutions and bills.
 
 ## Music
@@ -64,7 +62,6 @@ Below are the pieces of legislation that I have sponsored, been a member of a sp
 
 ## Other things of interest
 
-- [Gitea code forge](https://git.beepboop.systems)
 - [Vaultwarden instance](https://bitwarden.beepboop.systems)
 - [Franklin High School YMCA CCE delegation website](https://franklincce.beepboop.systems)
 - [beepboop.systems' marching exhibits](https://marching.beepboop.systems)

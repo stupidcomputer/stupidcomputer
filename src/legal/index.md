@@ -19,23 +19,6 @@ You should get a response in a maximum of thirty (30) business days.
 
 ----
 
-`git.beepboop.systems` (the self-hosted Gitea code forge) *does* collect personal information.
-Information collected includes:
-
-a) name or alias used to register;
-b) email address used to register; and
-c) user contributed content in the form of git commits, tags, annotations, issues, pull requests, etc.
-
-If you'd like your git information purged, please send mail to [webmaster@beepboop.systems](mailto:webmaster@beepboop.systems) with your account name and proof of account ownership.
-You should get a response in a maximum of thirty (30) business days.
-
-If you'd like, you can also delete your Gitea account via the built-in web interface, by navigating to the settings page, clicking on 'Account', and scrolling all the way to the bottom to see the account deletion area.
-
-`git.beepboop.systems` is not subject to CCPA or GDPR regulation, because it fails the same tests that `beepboop.systems` fails.
-For more information, read down to *CCPA compliance* and *GDPR compliance*, below.
-
-----
-
 `bit.beepboop.systems`, aka `bitwarden.beepboop.systems` (the self-hosted Bitwarden instance) *does* collect personal information:
 Information collected includes:
 
