@@ -49,7 +49,7 @@ Let's try writing to another file.
 Nice; we now have a somewhat working dmenu replacement with just a terminal emulator and fzy.
 
 You can polish this up and make it into a series of shell scripts.
-I've already done that [here](https://git.beepboop.systems/stupidcomputer/dot_testing/src/commit/1621f46af1e5067453821ca5ca72e0e7327bb16d/builds/utils), in ``tmenu``, ``tmenu-backend``, and ``tmenu_run``.
+I've already done that [here](https://github.com/stupidcomputer/dot_testing/tree/1621f46af1e5067453821ca5ca72e0e7327bb16d/builds/utils), in ``tmenu``, ``tmenu-backend``, and ``tmenu_run``.
 
 If you're running ``bspwm``, you can add a rule like so:
 

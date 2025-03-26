@@ -5,7 +5,7 @@ This is fine, except when said platforms implement stupid roadblocks that impede
 For example, CodeHS has decided that disabling copy-paste, a function that has been around since 1969 at least, is an extremely wise pedagogical choice.
 
 The most infuriating thing is that sometimes, the *assignments themselves require copy-paste*!
-Observe the following:
+Observe the following assignment:
 
 ```
 import java.util.Scanner;
@@ -48,4 +48,5 @@ Above is an editing session from a text editor, `ed`, that was first released Au
 The current year is 2025.
 Subtraction yields a fifty-six year difference.
 
-In summary: a full-screen editor is beaten by a piece of software meant to be used on a teletypewriter.
+That `1t$` command you see in the middle?
+Take one guess as to what it does.
