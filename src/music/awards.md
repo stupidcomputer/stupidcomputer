@@ -2,7 +2,7 @@
 
 ## 2024-2025
 
-- *TMEA 9-10 All-State Band*: Placed (yet to occur)
+- *TMEA 9-10 All-State Band*: 6th Chair Horn
 - *MTSBOA 9-10 Gold Band Honor Ensemble*: 3rd Chair Horn
 - *Williamson County 9-10 Grade Honor Ensemble*: 3rd Chair Horn
 - *Vanderbilt University Blair School of Music Philharmonia Orchestra*: 3rd Chair Horn
